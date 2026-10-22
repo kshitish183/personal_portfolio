@@ -36,8 +36,8 @@ export const projects: Project[] = [
     badge: "Manga",
     tech: ["React", "TypeScript", "Tailwind", "i18next"],
     features: ["Theme toggle", "Japanese localization", "Responsive cards", "Accessible nav"],
-    demoUrl: "https://kshitish-dev.vercel.app",
-    githubUrl: "https://github.com/kshitish-panda",
+    demoUrl: "https://myportfolio-kp.vercel.app",
+    githubUrl: "https://github.com/kshitish183/personal_portfolio",
     accent: "red"
   },
   {
