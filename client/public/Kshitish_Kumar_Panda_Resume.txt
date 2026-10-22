@@ -1,0 +1,34 @@
+Kshitish Kumar Panda
+Full-Stack Developer & UI Architect
+
+Open to: Frontend, full-stack, internship, and freelance opportunities
+Location: India
+Timezone: Asia/Kolkata
+Email: kshitishpanda@example.com
+GitHub: https://github.com/kshitish-panda
+LinkedIn: https://www.linkedin.com/in/kshitish-panda
+
+SUMMARY
+Full-stack developer focused on polished React interfaces, TypeScript components,
+Tailwind CSS systems, Node.js APIs, and deployment-ready web applications.
+
+CORE SKILLS
+React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Express.js,
+REST APIs, MongoDB, Git, GitHub, Vercel, Render, Postman, Figma, Chrome DevTools.
+
+SELECTED PROJECTS
+Manga Portfolio
+- Built a comic-inspired React and TypeScript portfolio with theme switching,
+  localization, accessible navigation, and recruiter-focused project case studies.
+
+Full-Stack Dashboard Concept
+- Planned protected UI states, REST API contracts, dashboard component patterns,
+  and production configuration boundaries.
+
+UI Component Kit
+- Created reusable cards, sections, form fields, visual tokens, focus states,
+  and motion-safe interface patterns.
+
+Deployment Flow
+- Structured client/server deployment expectations, API base URLs, CORS planning,
+  and build-ready hosting flow.
